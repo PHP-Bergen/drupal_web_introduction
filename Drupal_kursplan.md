@@ -6,6 +6,7 @@
 ---
 
 ## 🗓️ Kveld 1: Innføring i Drupal og oppsett av utviklingsmiljø
+9.9.2025
 
 **Mål:** Forstå hva Drupal er, og sette opp et fungerende utviklingsmiljø.
 
@@ -20,6 +21,7 @@
 ---
 
 ## 🗓️ Kveld 2: Strukturering og utvidelse av funksjonalitet
+30.9.2025
 
 **Mål:** Lære å tilpasse innholdstyper og bruke moduler for å bygge funksjonalitet.
 

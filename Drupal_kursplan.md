@@ -21,7 +21,7 @@
 ---
 
 ## 🗓️ Kveld 2: Strukturering og utvidelse av funksjonalitet
-30.9.2025
+16.9.2025
 
 **Mål:** Lære å tilpasse innholdstyper og bruke moduler for å bygge funksjonalitet.
 
@@ -35,6 +35,7 @@
 ---
 
 ## 🗓️ Kveld 3: Theming og enkel tilpassing med kode
+30.9.2025
 
 **Mål:** Få innsikt i hvordan man kan påvirke utseende og struktur gjennom theming og enkel koding.
 

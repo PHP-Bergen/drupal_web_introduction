@@ -13,7 +13,7 @@
 **Innhold:**
 - Hva er et CMS, og hvorfor bruke Drupal?
 - Drupal-økosystemet: moduler, temaer, distribusjoner
-- Installere Drupal (lokalt med XAMPP/Lando/DDEV)
+- Installere Drupal (lokalt med DDEV)
 - Administrasjonsgrensesnittet – en omvisning
 - Opprette innhold og bruke innholdstyper
 - **Øvelse:** Installere Drupal og opprette en enkel nettside

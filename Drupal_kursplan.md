@@ -5,18 +5,18 @@
 
 ---
 
-## 🗓️ Kveld 1: Innføring i Drupal og oppsett av utviklingsmiljø
+## 🗓️ Kveld 1: Innføring i Drupal CMS og oppsett av utviklingsmiljø
 9.9.2025
 
-**Mål:** Forstå hva Drupal er, og sette opp et fungerende utviklingsmiljø.
+**Mål:** Forstå hva Drupal og Drupal CMS er, og sette opp et fungerende utviklingsmiljø.
 
 **Innhold:**
-- Hva er et CMS, og hvorfor bruke Drupal?
+- Hva er et CMS, og hvorfor bruke Drupal CMS?
 - Drupal-økosystemet: moduler, temaer, distribusjoner
-- Installere Drupal (lokalt med DDEV)
+- Installere Drupal CMS (lokalt med DDEV)
 - Administrasjonsgrensesnittet – en omvisning
 - Opprette innhold og bruke innholdstyper
-- **Øvelse:** Installere Drupal og opprette en enkel nettside
+- **Øvelse:** Installere Drupal CMS og opprette en enkel nettside
 
 ---
 

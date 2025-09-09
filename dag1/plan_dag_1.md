@@ -62,8 +62,10 @@ Drupal CMS er en ferdig tilpasset distribusjon av Drupal med nyttige moduler, te
 Mer info: [Drupal CMS](https://new.drupal.org/drupal-cms/launcher)  
 
 Installer med:  
+    mkdir my-drupal-site && cd my-drupal-site
+    ddev config --project-type=drupal11 --docroot=web
     ddev start
-    ddev composer create drupal-cms/drupal-cms-project:11.x-dev .
+    ddev composer create-project drupal/cms
 
 
 

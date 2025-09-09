@@ -42,6 +42,7 @@ Test at alt fungerer med:
 
 ### 2. Lag et nytt prosjekt
 Velg en mappe der du vil ha prosjektet ditt, og kjør:  
+  
     mkdir drupal-kurs
     cd drupal-kurs
     ddev config // følg instruksjonene på skjermen
@@ -62,6 +63,7 @@ Drupal CMS er en ferdig tilpasset distribusjon av Drupal med nyttige moduler, te
 Mer info: [Drupal CMS](https://new.drupal.org/drupal-cms/launcher)  
 
 Installer med:  
+
     mkdir my-drupal-site && cd my-drupal-site
     ddev config --project-type=drupal11 --docroot=web
     ddev start

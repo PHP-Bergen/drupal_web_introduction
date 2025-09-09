@@ -67,7 +67,7 @@ Installer med:
     mkdir my-drupal-site && cd my-drupal-site
     ddev config --project-type=drupal11 --docroot=web
     ddev start
-    ddev composer create-project drupal/cms
+    ddev composer create-project drupal/cms .
 
 
 

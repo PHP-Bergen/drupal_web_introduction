@@ -7,6 +7,15 @@ Vi starter med de helt grunnleggende trinnene: hva et CMS er, hvorfor Drupal er 
 
 ---
 
+## Nyttige ressurser
+- Offisiell Drupal-side: [drupal.org](https://www.drupal.org/)  
+- Drupal CMS: [Drupal CMS launcher](https://new.drupal.org/drupal-cms/launcher)  
+- Community og ressurser: [DrupalForge](https://drupalforge.com/)  
+
+
+
+---
+
 ## Innhold i del 1
 - Hva er et CMS, og hvorfor bruke **[Drupal](https://www.drupal.org/)**?  
 - Drupal-økosystemet: moduler, temaer, distribusjoner og fellesskapet  
@@ -79,7 +88,3 @@ Følg installasjonsveiviseren for å sette opp nettstedet ditt.
 
 ---
 
-## Nyttige ressurser
-- Offisiell Drupal-side: [drupal.org](https://www.drupal.org/)  
-- Drupal CMS: [Drupal CMS launcher](https://new.drupal.org/drupal-cms/launcher)  
-- Community og ressurser: [DrupalForge](https://drupalforge.com/)  

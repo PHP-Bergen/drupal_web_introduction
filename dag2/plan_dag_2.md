@@ -10,9 +10,10 @@ Vi ser også på hvordan brukerroller og tilgangskontroll fungerer i praksis.
 ## Innhold i del 2
 - [Hva er innholdstyper](datatyper.md)
 - [Hva er felt](fields.md)
-- Bruklere - Brukerroller og tilgangskontroll
-- Forstå visninger (Views) og blokker
-- Introduksjon til populære moduler (f.eks. Pathauto, Webform, Paragraphs)  
+- Hva er blokker
+- Brukere - Brukerroller og tilgangskontroll
+- [Forstå visninger (Views)](views.md)
+- Introduksjon til noen få populære moduler (f.eks. Pathauto, Webform, Paragraphs)  
 
 ---
 

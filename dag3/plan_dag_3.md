@@ -1,4 +1,3 @@
-
 # Kursbeskrivelse – Del 3 av 3: Enkel koding og theming
 
 I denne siste delen av kurset ser vi på hvordan du kan tilpasse utseendet og strukturen til et Drupal-nettsted ved hjelp av temaer, Twig-maler og enkle endringer i CSS og JavaScript.  
@@ -7,10 +6,14 @@ Du lærer hvordan du kan overstyre maler og lage et eget under-tema basert på e
 ---
 
 ## Innhold i del 3
+
+- Definasjon av [Moduler, Receipies, plugins, single directory conponents](../dag2/modules.md)
+- [Hva er Brukere - Brukerroller og tilgangskontroll](../dag2/users.md)
+- [Forstå visninger (Views)](../dag2/views.md)
 - Introduksjon til Drupal-temaer (Twig og .yml-filer)  
-- Overstyre maler med Twig  
-- Enkle endringer i CSS og JS  
-- Bruke og tilpasse base-temaer (f.eks. Olivero eller Radix)  
+- Overstyre maler med Twig
+- Enkle endringer i CSS og JS
+- Bruke og tilpasse base-temaer (f.eks. Olivero eller Radix)
 
 ---
 

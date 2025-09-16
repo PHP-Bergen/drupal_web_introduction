@@ -19,10 +19,11 @@ Web applikasjoner oppererer often med [forskjellige navn på dette](https://www.
 ## Mye brukte moduler
 
 * Pathauto (tredjepartsmodul)
-* Paragraph (tredjepartsmodul)
+* Paragraphs (tredjepartsmodul)
 * Search API (tredjepartsmodul)
 * Address (tredjepartsmodul)
 * Devel (tredjepartsmodul)
+* Webform (tredjepartsmodul)
 
 ## Framtidlige moduler
 

@@ -5,6 +5,10 @@ Her får du innsikt i hvordan man tilpasser Drupal med innholdstyper, felt, visn
 Vi ser også på hvordan brukerroller og tilgangskontroll fungerer i praksis.  
 
 * [Drupal domentasjon](https://www.drupal.org/docs/user_guide/en/index.html).
+* [Oversettelser av Drupal core](https://localize.drupal.org/)
+* [Utvikle for Drupal](https://www.drupal.org/docs/develop/drupal-apis)
+* [Decoupled Drupal](https://www.drupal.org/docs/develop/decoupled-drupal)
+* [Drupal API](https://api.drupal.org/api/drupal)
 
 ---
 

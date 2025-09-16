@@ -13,11 +13,14 @@
 - Vi kan sette regler for hvor blokkene skal vises og når de skal vises. For eksemepl bare på forsiden, kun på nyhetssaker eller på alle sider.
 - Blokker er på samme måte som noder en content entity og du kan lage så mange typer blokker som du ønsker.
 - Blokker kan på samme måte som noder inneholde felt (fieldsable).
+- Lettvekts content entity som har andre egenskaper enn noder.
 
 ## Typer blokker:
+
 <img src="blocks-5.png" alt="drawing" width="600">
 
-**Systemblokker**
+### Systemblokker
+
 <img src="blocks-2.png" alt="drawing" width="600">
 
 Ferdiglagde blokker som kommer fra Drupal eller moduler. For eksempel: 
@@ -25,15 +28,20 @@ Ferdiglagde blokker som kommer fra Drupal eller moduler. For eksempel:
 - branding
 - hovedmeny.
 
-**Tilpassede blokker**
+Gå til:`/admin/structure/block`
+
+### Tilpassede blokker (Block Content)
 
 <img src="blocks-4.png" alt="drawing" width="600">
 
-Blokker som man har opprettet selv, enten ekle blokker med bare html-kode eller mer komplekse blokker med flere felter.
+Blokker som man opprettet på samme måte som noder. Enkle blokker med bare ren tekst, html-kode eller mer komplekse blokker, som innholder felter, bilder, osv.
+
 Gå til: `/admin/structure/block-content`
 
-**Automatisk genererte blokker**
+### Automatisk genererte blokker
 
 <img src="block-6.png" alt="drawing" width="600">
 
 Blokker som i sin natur er har mere dynamisk innhold. Skapes av moduler sitt innhold og eller konfigurasjon. For eksempel er en blokk som Views modulen hvor man kan lege en samling av innhold som vises i en blokk
+
+Gå til: `/admin/structure/views/view/latest`

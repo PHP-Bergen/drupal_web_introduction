@@ -13,6 +13,7 @@
 
 
 ## Typer blokker:
+<img src="blocks-5.png" alt="drawing" width="600">
 
 **Systemblokker**
 <img src="blocks-2.png" alt="drawing" width="600">
@@ -27,7 +28,7 @@ Dette er for eksempel søkefelt, branding, hovedmeny.
 Blokker som man har opprettet selv, enten ekle blokker med bare html-kode eller mer komplekse blokker med flere felter.
 
 **Automatisk genererte blokker**
-<img src="blocks-5.png" alt="drawing" width="600">
+<img src="block-6.png" alt="drawing" width="600">
 
 Blokker som er generert fra en modul, for eksempel views hvor man kan lege en samling av innhold som vises i en blokk
 

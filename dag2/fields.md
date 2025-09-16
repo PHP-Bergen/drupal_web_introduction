@@ -13,3 +13,6 @@ Felter er hvor data som blir skapt blir lagret. Data blir lagret sammen med konf
 ## Live demo
 
 Gå til: `/admin/structure/types`
+
+* Hvordan kontrolerer man skjema (forms)
+* Hvordan kontrolerer man en node sitt useende og ekstra view mode.

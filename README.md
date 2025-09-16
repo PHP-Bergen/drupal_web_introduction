@@ -15,3 +15,7 @@ I 2001 bestemte Dries seg for å dele programvaren med verden som open source. S
 Drupal skilte seg ut fra andre CMS-er (Content Management Systems) ved å være modulært og svært tilpasningsdyktig. Det tok ikke lang tid før både utviklere og større organisasjoner fikk øynene opp for plattformen.
 
 I løpet av de neste tiårene ble Drupal brukt av alt fra små nettsamfunn til store institusjoner som FN, Det hvite hus og universiteter over hele verden. Det utviklet seg til en av de mest robuste og skalerbare CMS-løsningene som finnes – og drives fortsatt av et engasjert, globalt fellesskap av utviklere.
+
+* [Dag en](dag1/plan_dag_1.md)
+* [Dag to](dag2/plan_dag_2.md)
+* [Dag tre](dag3/plan_dag_3.md)

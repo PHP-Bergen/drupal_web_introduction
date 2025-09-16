@@ -1,19 +1,20 @@
-
 # Kursbeskrivelse – Del 2 av 3: Innholdstyper, roller, visninger og moduler
 
 I denne delen av kurset bygger vi videre på det vi lærte i Del 1.  
 Her får du innsikt i hvordan man tilpasser Drupal med innholdstyper, felt, visninger og moduler.  
 Vi ser også på hvordan brukerroller og tilgangskontroll fungerer i praksis.  
 
+* [Drupal domentasjon](https://www.drupal.org/docs/user_guide/en/index.html).
+
 ---
 
-## Innhold i del 2
+## Innhold del 2
 - [Hva er innholdstyper](datatyper.md)
 - [Hva er felt](fields.md)
 - [Hva er blokker](blocks.md)
 - [Brukere - Brukerroller og tilgangskontroll](users.md)
 - [Forstå visninger (Views)](views.md)
-- Introduksjon til noen få populære moduler (f.eks. Pathauto, Webform, Paragraphs)  
+- [Introduksjon til noen få populære moduler](modules.md)   
 
 ---
 

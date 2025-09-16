@@ -8,7 +8,7 @@
 
 ## Hva er felt
 
-Felt er hvor data i en 
+Felter er hvor data som blir skapt blir lagret. Data blir lagret sammen med konfigurasjon i databased.
 
 ## Live demo
 

@@ -33,3 +33,4 @@ Vi ser også på hvordan brukerroller og tilgangskontroll fungerer i praksis.
 - **Del 1:** 9. september (Installasjon og oppsett)  
 - **Del 2:** 16. september (Innholdstyper, roller, visninger, moduler)  
 - **Del 3:** 30. september (Theming, Twig, CSS, JS)  
+``

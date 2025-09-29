@@ -5,7 +5,7 @@
 * [Drupal render engine - Twig](https://twig.symfony.com/)
 * [Drupal Twig dokumentasjon](https://www.drupal.org/docs/develop/theming-drupal/twig-in-drupal)
 
-### Example
+### Example - `block.html.twig`
 
 ```jinja
 <div{{ attributes.addClass(classes) }}>
@@ -23,6 +23,12 @@
 ## Grunnleggende syntax
 
 ```jinja
+{{ ... }}
+```
+
+Example:
+
+```jinja
 <h1>{{ page_title }}</h1>
 ```
 
@@ -31,6 +37,8 @@
 ```jinja
 {% ... %}
 ```
+
+Example:
 
 ```jinja
 {% if title %}

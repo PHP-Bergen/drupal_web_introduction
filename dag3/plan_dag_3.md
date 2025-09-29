@@ -10,10 +10,13 @@ Du lærer hvordan du kan overstyre maler og lage et eget under-tema basert på e
 - Definasjon av [Moduler, Receipies, plugins, single directory conponents](../dag2/modules.md)
 - [Hva er Brukere - Brukerroller og tilgangskontroll](../dag2/users.md)
 - [Forstå visninger (Views)](../dag2/views.md)
+ 
+
 - Introduksjon til [Drupal-temaer](https://www.drupal.org/docs/develop/theming-drupal)
+  - Hvordan bytte temaer `/admin/appearance`
   - Drupal render engine, [Twig](twig.md).
   - [Verktøy for utvikling av themes](tools.md).
-- Overstyre maler med Twig.
+- [Overstyre maler med Twig](twig_start.md).
 - Enkle endringer i CSS og JS.
 - Bruke og tilpasse base-temaer (f.eks. Olivero eller Radix).
 

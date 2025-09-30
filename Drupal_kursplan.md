@@ -53,3 +53,14 @@
 - Oppsummering og videre ressurser
 - Spørsmål og svar
 - Anbefalte neste steg (Drupalize.me, dokumentasjon, videre kurs)
+
+
+## Nyttige ressurser:
+
+https://new.drupal.org/home
+https://www.drupalatyourfingertips.com/
+https://www.acquia.com/resources/guide/ultimate-guide-drupal
+
+https://www.drupal.org/docs/contributed-modules/twig-tweak-2x/cheat-sheet
+
+https://drupal.no/nb

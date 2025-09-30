@@ -23,7 +23,7 @@ Du lærer hvordan du kan overstyre maler og lage et eget under-tema basert på e
 ---
 
 ## Øvelse
-- Tilpasse utseendet på en side med et egendefinert under-tema.  
+- Tilpasse utseendet på en side med et egendefinert under-tema eller med Drupal CMS  
 
 ---
 

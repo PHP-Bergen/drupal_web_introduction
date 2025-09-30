@@ -19,6 +19,7 @@ Du lærer hvordan du kan overstyre maler og lage et eget under-tema basert på e
 - Enkle endringer i CSS og JS.
 - [Skape themes](create_themes.md) (f.eks. Olivero, Radix).
 - [Mye brukte moduler](../dag2/modules.md)
+- [Decoupled Drupal](https://www.drupal.org/docs/develop/decoupled-drupal) Decoupled Drupal, or headless Drupal, uncouples the back-end of the CMS system that manages content from the front-end that is responsible for presenting or displaying content, allowing Drupal to expose content to other front-end systems.
 
 ---
 

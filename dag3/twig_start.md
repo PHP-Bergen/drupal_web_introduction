@@ -1,4 +1,4 @@
-# Twig setting started
+# Kom i gang med Twig
 
 Vær oppmerksom på mellomlagring (caching). Cache kan slettes på `/admin/config/development/performance`
 
@@ -25,10 +25,3 @@ parameters:
 Slett alle mellomlagrer (caches) og du skal se noe slik i nettleseren sin inspektor.
 
 <img src="debugging_markup.png" alt="Debugging Twig" width="600">
-
-## Lag en ny template
-
-```shell
-cd web
-php core/scripts/drupal generate-theme phpbergen --path themes/custom
-```

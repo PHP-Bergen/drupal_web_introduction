@@ -15,10 +15,10 @@ Du lærer hvordan du kan overstyre maler og lage et eget under-tema basert på e
 - Introduksjon til [Drupal-temaer](https://www.drupal.org/docs/develop/theming-drupal)
   - Hvordan bytte temaer `/admin/appearance`
   - Drupal render engine, [Twig](twig.md).
-  - [Verktøy for utvikling av themes](tools.md).
+- [Verktøy og debugging av themes](tools.md).
 - [Overstyre maler med Twig](twig_start.md).
 - Enkle endringer i CSS og JS.
-- Bruke og tilpasse base-temaer (f.eks. Olivero eller Radix).
+- [Skape themes](create_themes.md) (f.eks. Olivero, Radix).
 
 ---
 

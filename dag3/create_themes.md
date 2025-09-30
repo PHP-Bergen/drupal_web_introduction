@@ -6,3 +6,5 @@
 cd web
 php core/scripts/drupal generate-theme phpbergen --path themes/custom
 ```
+
+Gå til `/admin/appearance` og slå på ditt splitter ny phpbergen thema.

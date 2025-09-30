@@ -9,7 +9,7 @@ Du lærer hvordan du kan overstyre maler og lage et eget under-tema basert på e
 
 - [Hva er Brukere - Brukerroller og tilgangskontroll](../dag2/users.md)
 - [Forstå visninger (Views)](../dag2/views.md)
-- [Definasjoner](define_me.md) Moduler, Receipies, plugins, SDC, etc. 
+- [Definisjoner](define_me.md) Moduler, Receipies, plugins, SDC, etc. 
 
 - Introduksjon til [Drupal-temaer](https://www.drupal.org/docs/develop/theming-drupal)
   - Hvordan bytte temaer `/admin/appearance`
